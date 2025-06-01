@@ -68,7 +68,7 @@ For more details, check the **[API Documentation](https://freeapi.hashnode.space
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/shreyansh-Geek/BooksLibrary.git
+   git clone https://github.com/shreyansh-Geek/BooksLibrary.git](https://github.com/maneeish/Open-Book
    cd BooksLibrary
    ```
 
